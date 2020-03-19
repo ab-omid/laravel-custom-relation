@@ -1,6 +1,7 @@
 # Laravel Custom Relation
 
 A custom relation for when stock relations aren't enough.
+Just updated laravel and php version so it can be install on laravel 6.x and 7.x
 
 ## Use this if...
 
@@ -11,7 +12,7 @@ A custom relation for when stock relations aren't enough.
 The recommended way to install is with [composer](http://getcomposer.org/):
 
 ```shell
-composer require johnnyfreeman/laravel-custom-relation
+composer require ab-omid/laravel-custom-relation
 ```
 
 ## Example
